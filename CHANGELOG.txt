@@ -1,0 +1,9 @@
+CHANGELOG
+=============
+    V 0.0.1
+  =========
+- Added MIT License
+- Added GNU GPL License
+- Added Awesome License
+- Added Apache License
+==========================
